@@ -1,0 +1,10 @@
+﻿CODIGO;Tipo;Sub1;Sub2;Sub3;Geral
+1;Físico;Produtos;Receita Bruta de Vendas de Mercadorias e Serviços Prestados;Receita Líquida de Vendas de Mercadorias e Serviços Prestados;Lucro Bruto
+2;Digital;Produtos;Receita Bruta de Vendas de Mercadorias e Serviços Prestados;Receita Líquida de Vendas de Mercadorias e Serviços Prestados;Lucro Bruto
+3;Serviços e Demais;Serviços e Demais;Receita Bruta de Vendas de Mercadorias e Serviços Prestados;Receita Líquida de Vendas de Mercadorias e Serviços Prestados;Lucro Bruto
+4;Impostos e Outras Deduções;Impostos e Outras Deduções;Impostos e Outras Deduções;Receita Líquida de Vendas de Mercadorias e Serviços Prestados;Lucro Bruto
+5;Custo das Mercadorias Vendidas e dos Serviços Prestados;Custo das Mercadorias Vendidas e dos Serviços Prestados;Custo das Mercadorias Vendidas e dos Serviços Prestados;Custo das Mercadorias Vendidas e dos Serviços Prestados;Lucro Bruto
+6;Com Vendas;Receitas (Despesas) Operacionais ;Receitas (Despesas) Operacionais ;Receitas (Despesas) Operacionais ;Receitas (Despesas) Operacionais 
+7;Gerais & Administrativas;Receitas (Despesas) Operacionais ;Receitas (Despesas) Operacionais ;Receitas (Despesas) Operacionais ;Receitas (Despesas) Operacionais 
+8;Outras Receitas (Despesas) Operacionais, Líquidas;Receitas (Despesas) Operacionais ;Receitas (Despesas) Operacionais ;Receitas (Despesas) Operacionais ;Receitas (Despesas) Operacionais 
+;;;;;

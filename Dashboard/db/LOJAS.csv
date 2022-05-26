@@ -1,0 +1,184 @@
+﻿LOJA;NOME;INAUGURACAO;AREA_LOJA;ENDERECO;CIDADE;UF;REGIAO;PAIS
+TIET-SP;Marginal Tietê;01/08/2002;2.961;Av. Presidente Castelo Branco, 1795;São Paulo;SP;Sudeste;BRASIL
+DOMP-SP;Dom Pedro;01/10/2005;1.501;Av. Guilherme Campos, 500 - Shopping Parque Dom Pedro;Campinas;SP;Sudeste;BRASIL
+ALPH-SP;Alphaville;01/02/2006;1.158;Av. Alphaville, 580;Barueri;SP;Sudeste;BRASIL
+IPIR-SP;Ipiranga;01/03/2007;655;Av. Presidente Tancredo Neves, 600;São Paulo;SP;Sudeste;BRASIL
+SBCA-SP;São Bernardo;01/04/2007;994;Av. Rotary, 825 - Junto Ao Center Castilho;São Bernardo do Campo;SP;Sudeste;BRASIL
+MOGI-SP;Mogi das Cruzes;01/04/2008;760;Av. Francisco Rodrigues Filho, 1550;Mogi das Cruzes;SP;Sudeste;BRASIL
+WLUI-SP*;Washington Luís;04/09/2009;724;Av. Washington Luís, 2737;São Paulo;SP;Sudeste;BRASIL
+GRLH-SP;Guarulhos;01/10/2010;1.519;Av. Guarulhos, 2598;Guarulhos;SP;Sudeste;BRASIL
+MCCO-SP;Santos Macuco;01/12/2010;3.076;Rua Dr. Manoel Tourinho, 385;Santos;SP;Sudeste;BRASIL
+SCBA-SP;Sorocaba;01/06/2011;1.517;Av. Dom Aguirre, 2121;Sorocaba;SP;Sudeste;BRASIL
+ARIC-SP;Aricanduva;09/08/2011;1.643;Av. Rio Das Pedras, 2207 - Junto A Telha Norte;São Paulo;SP;Sudeste;BRASIL
+LTPL-SP;Litoral Plaza;01/12/2011;1.000;Av. Ayrton Senna Da Silva, 1511 - Litoral Plaza Shopping;Praia Grande;SP;Sudeste;BRASIL
+STCE-SP;Santa Cecília;26/04/2012;889;Av. General Olímpio Da Silveira, 68;São Paulo;SP;Sudeste;BRASIL
+LMAO-SP;Limão;20/09/2012;1.562;Av. Otaviano Alves De Lima, 1480;São Paulo;SP;Sudeste;BRASIL
+BSIA-DF;Brasília SIA;29/11/2012;1.794;Sia Trecho 02, Lotes 65/95 , 65/95;Brasília;DF;Centro-Oeste;BRASIL
+BAND-SP;Bandeirantes;13/12/2012;1.990;Av. Dos Bandeirantes, 2040;São Paulo;SP;Sudeste;BRASIL
+JUND-SP;Jundiaí;20/12/2012;1.487;Av. Antonio Frederico Ozanan, 3003 - Junto Ao Atacadista Roldão;Jundiaí;SP;Sudeste;BRASIL
+BTTA-SP;Butantã;26/02/2013;662;Av. Professor Francisco Morato, 1796 - 1798;São Paulo;SP;Sudeste;BRASIL
+GUJA-SP;Guarujá;01/08/2013;972;Av. Adhemar De Barros, 1935;Guarujá;SP;Sudeste;BRASIL
+IGES-SP;Iguatemi Esplanada;14/11/2013;977;Av. Gisele Constantino, 1850 - Shopping Iguatemi Esplanada;Votorantim;SP;Sudeste;BRASIL
+MNLH-RJ;Carrefour Manilha;26/11/2013;1.987;Travessa Oliveira Botelho, 349 - Dentro Do Carrefour Manilha;São Gonçalo;RJ;Sudeste;BRASIL
+PSAG-GO;Passeio das Águas;01/12/2013;906;Av. Perimetral Norte, 8303 - Fazenda Das Caveiras;Goiânia;GO;Centro-Oeste;BRASIL
+AFCO-SP;Anália Franco;10/12/2013;1.048;Av. Regente Feijó, 677;São Paulo;SP;Sudeste;BRASIL
+AYSE-RJ;Ayrton Senna;10/12/2013;2.946;Av. Ayrton Senna, 3437 - Junto A Etna;Rio de Janeiro;RJ;Sudeste;BRASIL
+SCSU-SP;Carrefour São Caetano;17/12/2013;1.830;Av. Do Estado, 1750 - Junto Ao Carrefour;São Caetano do Sul;SP;Sudeste;BRASIL
+MRBI-SP;Morumbi;30/04/2015;1.280;Rua Aureliano Guimarães, 201;São Paulo;SP;Sudeste;BRASIL
+MOOC-SP;Mooca;17/07/2015;765;Av. Paes De Barros, 1654;São Paulo;SP;Sudeste;BRASIL
+FBYT-GO;Parque Flamboyant;01/08/2015;929;Av. Deputado Jamel Cecílio, S/N - Quadra B16, Lotes 17/19;Goiânia;GO;Centro-Oeste;BRASIL
+MGYA-SP;Manuel Gaya;06/08/2015;1.111;Rua Manuel Gaya, 2000;São Paulo;SP;Sudeste;BRASIL
+CBUI-SP;Cambuí;13/08/2015;659;Av. Doutor Moraes Sales, 2326;Campinas;SP;Sudeste;BRASIL
+CTMN-MG;Center Minas;26/11/2015;1.181;Av. Pastor Anselmo Silvestre, 1395 , 1495 - Shopping Center Minas;Belo Horizonte;MG;Sudeste;BRASIL
+NSCA-MG;Nossa Senhora do Carmo;17/12/2015;1.450;Av. Nossa Senhora Do Carmo, 1448;Belo Horizonte;MG;Sudeste;BRASIL
+IMIG-SP;Carrefour Imigrantes;01/04/2016;1.060;Rua Ribeiro Lacerda, 940 - Estacionamento G3 Carrefour;São Paulo;SP;Sudeste;BRASIL
+ABVT-SP;Alto da Boa Vista;10/05/2016;951;Av. Adolfo Pinheiro, 1600;São Paulo;SP;Sudeste;BRASIL
+PIRA-SP;Piracicaba;09/06/2016;1.151;Av. Centenário, 780;Piracicaba;SP;Sudeste;BRASIL
+JGRE-SP;Jaguaré;07/09/2016;1.009;Av. Corifeu De Azevedo Marques, 4529 - Lado Ímpar Da Corifeu;São Paulo;SP;Sudeste;BRASIL
+CDJD-SP;Cidade Jardim;20/09/2016;514;Av Dos Tajuras, 147 - 161;São Paulo;SP;Sudeste;BRASIL
+STAD-SP;Santo André;06/10/2016;1.223;Av. Ramiro Colleoni , 355;Santo André;SP;Sudeste;BRASIL
+AUGT-SP;Augusta;28/10/2016;1.003;Rua Augusta , 215;São Paulo;SP;Sudeste;BRASIL
+PLAV-SP;Plaza Avenida Shopping;03/11/2016;984;Av. José Munia, 4775 - Shopping Plaza Avenida, Piso T;São José do Rio Preto;SP;Sudeste;BRASIL
+TMBO-SP;Tamboré;26/11/2016;1.144;Alameda Araguaia, 2179 - Parte A, Junto À Kalunga;Barueri;SP;Sudeste;BRASIL
+EPIA-DF;Brasília EPIA;08/12/2016;1.394;Epia Sul, , Lote 3;Brasília;DF;Centro-Oeste;BRASIL
+BAUR-SP;Bauru;10/12/2016;1.364;Rua Rubens Pagani , 444;Bauru;SP;Sudeste;BRASIL
+RPTO-SP;Carrefour Ribeirão Shopping;20/12/2016;1.137;Av. Coronel Fernando Ferreira Leite, 1540 - Ribeirão Shopping;Ribeirão Preto;SP;Sudeste;BRASIL
+BAME-RJ;Barra Américas;16/02/2017;1.023;Av. Das Américas, 6571 - Lote 02 Pal 45164;Rio de Janeiro;RJ;Sudeste;BRASIL
+PROT-RS;Protásio Alves;16/03/2017;1.916;Av. Protásio Alves, 4194 - Loja 2;Porto Alegre;RS;Sul;BRASIL
+SVCT-SP;São Vicente;01/04/2017;1.087;Av. Antônio Emmerick, 23;São Vicente;SP;Sudeste;BRASIL
+SMNA-PR;Seminário;04/05/2017;1.439;Av. Nossa Senhora Aparecida, 582;Curitiba;PR;Sul;BRASIL
+ACST-SP;Santos Ana Costa;12/05/2017;986;Av. Ana Costa, 215;Santos;SP;Sudeste;BRASIL
+PAMP-MG;Pampulha;18/05/2017;1.256;Av. Professor Magalhães Penido, 1000;Belo Horizonte;MG;Sudeste;BRASIL
+ASAN-DF;Asa Norte;25/05/2017;1.520;St Stn, Conjunto D, Bloco2/B, S/N - Terminal Norte Conj D Bloco2/B;Brasília;DF;Centro-Oeste;BRASIL
+MOIN-RS;Moinhos de Vento;14/06/2017;964;Rua Quintino Bocaiuva, 433;Porto Alegre;RS;Sul;BRASIL
+ITAM-SP;Itaim;28/06/2017;1.211;Rua Bandeira Paulista, 982;São Paulo;SP;Sudeste;BRASIL
+POMP-SP;Pompeia;26/07/2017;1.237;Av. Francisco Matarazzo, 2000 - Complexo Sp Mega Stores;São Paulo;SP;Sudeste;BRASIL
+CTNO-SP;Center Norte;10/08/2017;233;Shopping Center Norte - Tv. Casalbuono, 120 - Alameda De Serviços;São Paulo;SP;Sudeste;BRASIL
+CATU-PR;Catuai Londrina;19/08/2017;965;Rod. Mabio Gonçalves Palhano, 195 - Em Frente Ao Catuaí Shopping;Londrina;PR;Sul;BRASIL
+MCNA-RJ;Extra Maracanã;04/10/2017;1.246;Rua José Higino, 115 - Dentro Do Extra Maracanã;Rio de Janeiro;RJ;Sudeste;BRASIL
+JAPE-SP;Jacu Pêssego;29/10/2017;1.124;Av. Jacu Pêssego , 4710;São Paulo;SP;Sudeste;BRASIL
+SCAR-SP;São Carlos;14/12/2017;921;Av. Francisco Pereira Lopes, 1701;São Carlos;SP;Sudeste;BRASIL
+GPIR-SP;Giovanni Pirelli;19/12/2017;1.137;Rua Giovanni Battista Pirelli, 1645;Santo André;SP;Sudeste;BRASIL
+PCBU-SP;Pacaembu;28/12/2017;697;Praça Charles Miller, 117;São Paulo;SP;Sudeste;BRASIL
+SJRP-SP;São José do Rio Preto;11/01/2018;1.208;Av. Pres. Juscelino K. Oliveira, 400;São José do Rio Preto;SP;Sudeste;BRASIL
+BQMA-SP;Bosque Maia;26/02/2018;919;Av. Paulo Faccini, 1385;Guarulhos;SP;Sudeste;BRASIL
+ANHM-SP;Anhaia Mello;29/03/2018;946;Av. Prof. Luiz Ignacio Anhaia Mello, 5657 - Junto Ao Roldão;São Paulo;SP;Sudeste;BRASIL
+PBAR-SP;Pereira Barreto;05/04/2018;1.037;Rua Thales Dos Santos Freire, 36/40 - Quadra 8B Lot 26,27,28,29 E 30;São Bernardo do Campo;SP;Sudeste;BRASIL
+RAJA-MG;Raja Gabaglia;28/06/2018;463;Av. Raja Gabaglia, 3230;Belo Horizonte;MG;Sudeste;BRASIL
+CGDE-MS;Campo Grande;08/08/2018;1.237;Av. Afonso Pena, 5420;Campo Grande;MS;Centro-Oeste;BRASIL
+RJAF-SP;Ricardo Jafet;15/08/2018;2.616;Av. Dr. Ricardo Jafet, 1750;São Paulo;SP;Sudeste;BRASIL
+RDLT-SP;Radial Leste;04/09/2018;1.166;Av. Alcântara Machado , 3300;São Paulo;SP;Sudeste;BRASIL
+ARAC-SP;Araçatuba;22/10/2018;702;Av. Brasília, 2737;Araçatuba;SP;Sudeste;BRASIL
+INDT-SP;Indaiatuba;05/11/2018;855;Alameda Filtros Mann, 670 - Polo Shopping Indaiatuba;Indaiatuba;SP;Sudeste;BRASIL
+CPCB-RJ;Copacabana;09/11/2018;335;Av. Nossa Senhora De Copacabana, 1246;Rio de Janeiro;RJ;Sudeste;BRASIL
+FLNP-SC;Florianópolis;16/11/2018;1.246;Rod. José Carlos Daux, 5500 - Square Sc Corporate;Florianópolis;SC;Sul;BRASIL
+CGHS-SP;Congonhas;27/11/2018;1.048;Av. Moreira Guimarães, 631 - 657;São Paulo;SP;Sudeste;BRASIL
+CLNS-SP;Extra Colinas;05/12/2018;862;Av. Jorge Zarur, 100;São José dos Campos;SP;Sudeste;BRASIL
+OSAS-SP;Osasco;10/12/2018;1.178;Av. Dos Autonomistas, 1473 - Parte A;Osasco;SP;Sudeste;BRASIL
+ENSD-SP;Enseada;15/12/2018;568;Av. Dom Pedro I, S/N - Lote 1 E 2;Guarujá;SP;Sudeste;BRASIL
+MTTO-SP;Marechal Tito;22/12/2018;860;Av. Marechal Tito, 5699 - Junto A Center Castilho;São Paulo;SP;Sudeste;BRASIL
+BALN-SC;Balneário Camboriú;17/01/2019;736;Av. Do Estado, 4888;Balneário Camboriú;SC;Sul;BRASIL
+FRCA-SP;Franca;05/02/2019;921;Av. Dr. Ismael Alonso Y Alonso, 450;Franca;SP;Sudeste;BRASIL
+BTIM-MG;Betim;23/02/2019;955;Av. Juiz Marco Tulio Isaac, 470;Betim;MG;Sudeste;BRASIL
+BT63-GO;Bueno T63;16/03/2019;1.327;Av. T63, S/N - Quadra 143 Lote 4/13;Goiânia;GO;Centro-Oeste;BRASIL
+MRNG-PR;Maringá;17/04/2019;980;Av. Paraná, 1250;Maringá;PR;Sul;BRASIL
+TBAO-SP;Taboão;20/04/2019;1.011;Rua do Tesouro, 662;Taboão da Serra;SP;Sudeste;BRASIL
+SMGL-SP;São Miguel;08/05/2019;795;Av. São Miguel, 7988;São Paulo;SP;Sudeste;BRASIL
+TTVL-SP;Teotônio Vilela;15/05/2019;1.047;Av. Teotonio Vilela, S/N;São Paulo;SP;Sudeste;BRASIL
+VTRA-ES;Vitória;28/06/2019;1.257;Av. Nossa Senhora da Penha, 1819;Vitória;ES;Sudeste;BRASIL
+PGDE-SP;Praia Grande;02/07/2019;945;Av. Presidente Kennedy, 2930;Praia Grande;SP;Sudeste;BRASIL
+CNTG-MG;Contagem;11/07/2019;991;Av. Babita Camargos, 1295 - Loja 03;Contagem;MG;Sudeste;BRASIL
+SADP-SP;Santo Andre Dom Pedro;27/07/2019;331;Av. Dom Pedro II, 933;Santo André;SP;Sudeste;BRASIL
+PRLA-BA;Salvador Paralela;05/08/2019;1.733;Av. Luís Viana, 2768;Salvador;BA;Nordeste;BRASIL
+JVLE-SC;Joinville;24/09/2019;1.369;Rua Dr. João Colin, 940;Joinville;SC;Sul;BRASIL
+UDIA-MG;Uberlândia;25/09/2019;874;Av. Rondon Pacheco, 505;Uberlândia;MG;Sudeste;BRASIL
+CTTE-SC;Continente;15/10/2019;979;Rua Martinho Boschetti, 2083;São José;SC;Sul;BRASIL
+ITTU-SP;Itu;01/11/2019;826;Av. Dr. Otaviano Pereira Mendes, 1254;Itu;SP;Sudeste;BRASIL
+CVDA-RS;Cavalhada;09/11/2019;884;Av. Eduardo Prado, 415;Porto Alegre;RS;Sul;BRASIL
+RMAR-PE;Riomar;19/11/2019;665;Av. República do Líbano, 251;Recife;PE;Nordeste;BRASIL
+CXAS-RS;Caxias Do Sul;28/11/2019;894;Av. Rubens Bento Alves, 8457;Caxias do Sul;RS;Sul;BRASIL
+PRUD-SP;Presidente Prudente;05/12/2019;833;Av. Manoel Goulart, 2671;Presidente Prudente;SP;Sudeste;BRASIL
+NTAL-RN;Natal;06/12/2019;1.245;Av. Sen. Salgado Filho, 2431;Natal;RN;Nordeste;BRASIL
+BNOC-BA;Salvador Bonoco;11/12/2019;1.082;Av. Mario Leal Ferreira, 500;Salvador;BA;Nordeste;BRASIL
+VLVL-ES;Vila Velha;13/12/2019;1.096;Rua Profa Francelina Carneiro Setúbal, 85;Vila Velha;ES;Sudeste;BRASIL
+JUZF-MG;Juiz de Fora;23/12/2019;933;Av. Barão do Rio Branco, 3820;Juiz de Fora;MG;Sudeste;BRASIL
+ANCH-SP;Carrefour Anchieta;31/01/2020;518;Av. Marginal Direita Anchieta, 3398;São Paulo;SP;Sudeste;BRASIL
+ACJU-SE;Aracaju;13/03/2020;1.011;Av. Ministro Geraldo Barreto Sobral, 140;Aracaju;SE;Nordeste;BRASIL
+MTLM-PR;Mateus Leme;25/04/2020;873;Rua Mateus Leme, 1875;Curitiba;PR;Sul;BRASIL
+RICL-SP;Rio Claro;22/06/2020;755;Avenida Presidente Kennedy, 414;Rio Claro;SP;Sudeste;BRASIL
+CLUZ-MG;Carlos Luz;30/06/2020;763;Av. Presidente Carlos Luz, 710;Belo Horizonte;MG;Sudeste;BRASIL
+PQSH-BA;Parque Shopping Bahia;05/08/2020;673;Avenida Santos Dumont, 4360-Parque Shopping Bahia;Lauro de Freitas;BA;Nordeste;BRASIL
+MGST-MT;Miguel Sutil;14/08/2020;937;Rua Vinte e Quatro,03 Quadra 38-Morada da Serra;Cuibá;MT;Centro-Oeste;BRASIL
+NCUN-SP;Nações Unidas;19/08/2020;859;Av. Nações Unidas,20727-Vila Almeida;São Paulo;SP;Sudeste;BRASIL
+RPIN-SP;Ribeirão Preto Independência;25/08/2020;744;Av. Indepedencia,1810;Ribeirão Preto;SP;Sudeste;BRASIL
+STDU-CE;Santos Dumont;31/08/2020;1.411;Av Santos Dumont;Fortaleza;CE;Nordeste;BRASIL
+FCOR-MT;Fernando Corrêa;05/09/2020;1.157;Av. Fernando Corrêa da Costa, 1682;Cuibá;MT;Centro-Oeste;BRASIL
+VMTD-SP;Vila Matilde;10/09/2020;448;Av. Conde De Frontin, 2416;São Paulo;SP;Sudeste;BRASIL
+JJAU-SP;Jau;14/09/2020;758;Av. Doutor Quinzinho, 51;Jaú;SP;Sudeste;BRASIL
+CORA-SP;Cerro Corá;22/09/2020;902;Rua Cerro Corá, 1950;São Paulo;SP;Sudeste;BRASIL
+STLG-MG;Sete Lagoas;28/09/2020;670;Av. Raquel Teixeira Viana, 1023;Sete Lagoas;MG;Sudeste;BRASIL
+ITTB-SP;Itatiba;02/10/2020;569;Av. Marechal Castelo Branco, 55;Itatiba;SP;Sudeste;BRASIL
+VLMA-SP;Vila Mariana;05/10/2020;402;Rua Domingos De Morais, 939;São Paulo;SP;Sudeste;BRASIL
+CTIA-SP;Cotia;20/10/2020;1.061;Rodovia Raposo Tavares km 21 - setor 2;Cotia;SP;Sudeste;BRASIL
+PLOT-RS;Pelotas;26/10/2020;794;Av. Ferreira Viana, 1511;Pelotas;RS;Sul;BRASIL
+BFGO-RJ;Botafogo Polidoro;30/10/2020;762;Rua General Polidoro, 113;Rio de Janeiro;RJ;Sudeste;BRASIL
+BOVG-PE;Boa Viagem;06/11/2020;1.456;Av. Professor Joao Medeiros, 139;Recife;PE;Nordeste;BRASIL
+CCVE-PR;Cascavel;12/11/2020;801;Av. Brasil, 4254 - Centro;Cascavel;PR;Sul;BRASIL
+DNTC-RS;Cristal;18/11/2020;886;Av. Diário de Notícias, 1500 ;Porto Alegre;RS;Sul;BRASIL
+GRUP-SP;Guarulhos Pimentas;30/11/2020;496;Estrada Presidente Juscelino Kubitschek de Oliveira, 4414;Guarulhos;SP;Sudeste;BRASIL
+NHBG-RS;Novo Hamburgo;05/12/2020;822;Rua Castro Alves 205;Novo Hamburgo;RS;Sul;BRASIL
+LAUZ-SP;Lauzane Paulista;12/12/2020;489;Av. Direitos Humanos, 1436;São Paulo;SP;Sudeste;BRASIL
+SOTT-SP;Sorocaba Tauste;17/12/2020;668;Av. General Carneiro, 1120;São Paulo;SP;Sudeste;BRASIL
+CNOA-RS;Canoas;22/12/2020;893;Av. Getúlio Vargas, 6401;Canoas;RS;Sul;BRASIL
+CPIC-SP;Carapicuíba;12/01/2021;625;Av Inocêncio Seráfico, 3375 - Vila Silva Ribeiro;São Paulo;SP;Sudeste;BRASIL
+MAUA-SP;Shopping Mauá;20/01/2021;533;Av Governador Mário Covas Junior, Centro;Mauá;SP;Sudeste;BRASIL
+AMER-SP;Americana;17/02/2021;811;Av. Paulista, 985;Americana;SP;Sudeste;BRASIL
+FOZI-PR;Foz do Iguaçu;18/03/2021;736;Av. Paraná, 1270;Foz do Iguaçu;PR;Sul;BRASIL
+TEOD-SP;Teodoro Sampaio;20/03/2021;566;Rua Teodoro Sampaio, 1424;São Paulo;SP;Sudeste;BRASIL
+PMAS-TO;Palmas;30/04/2021;746;Q. 101 Sul Avenida LO 3, S/N;Palmas;TO;Norte;BRASIL
+VISA-RJ;Vila Isabel;19/05/2021;780;Rua Teodoro da Silva, 668;Rio de Janeiro;RJ;Sudeste;BRASIL
+CGUA-SP;Caraguatatuba;26/05/2021;577;Rua Vereador Antônio Cruz Arouca, 200;Caraguatatuba;SP;Sudeste;BRASIL
+VRAO-SP;Vicente Rao;29/05/2021;490;Av. Professor Vicente Rao, 1700;São Paulo;SP;Sudeste;BRASIL
+SERR-ES;Serra;03/06/2021;788;Av. Eldes Scherrer Souza, 566;Serra;ES;Sudeste;BRASIL
+TRMS-SP;Shopping Trimais ;12/06/2021;414;Av. Tucuruvi, 248;São Paulo;SP;Sudeste;BRASIL
+DJBA-AM;Djalma Batista;19/06/2021;979;Av. Djalma Batista, 3000;Manaus;AM;Norte;BRASIL
+UBRB-MG;Uberaba;10/07/2021;712;Av. Leopoldino de Oliveira, 4001;Uberaba;MG;Sudeste;BRASIL
+NTZN-RN;Natal Zona Norte;05/08/2021;832;Av. Dr. João Medeiros Filho, 1420;Natal;RN;Nordeste;BRASIL
+ILHG-RJ;Ilha do Governador;10/08/2021;756;Estrada do Galeão 1770 - Jardim Carioca;Rio de Janeiro;RJ;Sudeste;BRASIL
+BLUM-SC;Blumenau;17/08/2021;850;R. São Paulo, 1629 - Itoupava Seca;Blumenau;SC;Sul;BRASIL
+NDTN-SP;Nordestina;21/08/2021;508;Av. Nordestina, 2740;São Paulo;SP;Sudeste;BRASIL
+JFIR-SP;João Firmino;28/08/2021;823;Av. João Firmino, 342;São Bernardo do Campo;SP;Sudeste;BRASIL
+BJDB-DF;Brasília Jardim Botânico;17/09/2021;539;Q. 1 Lote E - Av. Das Paineiras , S/N;Brasília;DF;Centro-Oeste;BRASIL
+SMRE-SP;Sumaré;21/09/2021;769;Av. da Amizade, 2371;Sumaré;SP;Sudeste;BRASIL
+PCCD-MG;Poços de Caldas;24/09/2021;752;Av. João Pinheiro, 711;Poços de Caldas;MG;Sudeste;BRASIL
+JDIC-RJ;Jardim Icaraí;29/09/2021;539;R. Dr. Paulo César, 249 - Santa Rosa;Niterói;RJ;Sudeste;BRASIL
+VGLV-SP;Vila Galvão;02/10/2021;790;R. Maria Primo de Jesus, 47/69;Guarulhos;SP;Sudeste;BRASIL
+AGMN-PE;Agamenon Magalhães;09/10/2021;441;Av. Gov. Agamenon Magalhães, 3855;Recife;PE;Nordeste;BRASIL
+VALP-GO;Shopping Val Paraíso;13/10/2021;609;Q. 1 Valparaíso Shopping, S/N;Valparaíso de Goiás;GO;Centro-Oeste;BRASIL
+ITGU-SC;Shopping Itaguacu;30/10/2021;608;R. Gerôncio Thives, 1079;Florianópolis;SC;Sul;BRASIL
+JABT-PE;Jaboatão Dos Guararapes;06/11/2021;719;Av. Ayrton Senna da Silva, 1485;Jaboatão dos Guararapes;PE;Nordeste;BRASIL
+WSOA-CE;Washington Soares;09/11/2021;862;Av. Washington Soares, 2300;Fortaleza;CE;Nordeste;BRASIL
+RPVG-SP;Presidente Vargas;13/11/2021;798;Av. Pres. Vargas, 2265;Ribeirão Preto;SP;Sudeste;BRASIL
+JDBT-RJ;Jardim Botânico;19/11/2021;275;R. Jardim Botânico, 733;Rio de Janeiro;RJ;Sudeste;BRASIL
+SHGR-RJ;Shopping Grande Rio;26/11/2021;600;R. Maria Soares Sendas, 111;São João de Meriti;RJ;Sudeste;BRASIL
+ANGL-SP;Angélica;30/11/2021;325;Av Angélica, 2011;São Paulo;SP;Sudeste;BRASIL
+PSMC-AL;Parque Shopping Maceió;07/12/2021;452;Av. Comendador Gustavo Paiva, 5945;Maceió;AL;Nordeste;BRASIL
+GBSL-DF;Gilberto Salomão;11/12/2021;453;BL. F, Shis Qi 5 Conjunto 16, 5;Brasília;DF;Centro-Oeste;BRASIL
+GVGC-SP;Giovanni Gronchi;15/12/2021;1.351;Av. Giovanni Gronchi, 3280;São Paulo;SP;Sudeste;BRASIL
+PTBA-BA;Pituba;18/12/2021;437;Av. Manoel Dias da Silva, 1251;Salvador;BA;Nordeste;BRASIL
+ITPT-SP;Itapetininga;21/12/2021;561;Rua Prudente de Moraes, 317;Itapetininga;SP;Sudeste;BRASIL
+BRTJ-RJ;Extra Barra da Tijuca;11/01/2022;622;Av. das Américas, 1510;Rio de Janeiro;RJ;Sudeste;BRASIL
+W3NT-DF;W3 Norte;18/01/2022;1.493;Comércio Residencial Norte, 502;Brasília;DF;Centro-Oeste;BRASIL
+GAMA-DF;Gama Leste;26/01/2022;811;SIND QI 1 - Pte. Alta Norte, S/N;Brasília;DF;Centro-Oeste;BRASIL
+TORS-PR;Torres;29/01/2022;958;Av. Com. Franco, 2958;Curitiba;PR;Sul;BRASIL
+TQTP-AM;Torquato Tapajós;10/02/2022;907;Av Torquato Tapajós, 313 - Flores;Manaus;AM;Norte;BRASIL
+SPAN-MT;Shopping Pantanal;12/02/2022;576;Av. Historiador Rubens de Mendonça, 3300;Cuiabá;MT;Centro-Oeste;BRASIL
+PNMR-PE;Parnamirim;24/02/2022;848;Av. Dezessete de Agosto, 287;Recife;PE;Nordeste;BRASIL
+EDFC-SP;Edgard Facó;12/03/2022;879;Av General Edgard Facó, 830 - Freguesia Do Ó;São Paulo;SP;Sudeste;BRASIL
+GVDL-SP;Gastão Vidigal;16/03/2022;689;AV Dr Gastao Vidigal, 1555;São Paulo;SP;Sudeste;BRASIL
+SZNO-SP;Shopping Suzano;31/03/2022;554;R Sete de Setembro, 555;Suzano;SP;Sudeste;BRASIL
+SMOC-SP;Mooca Plaza Shopping;08/04/2022;555;Rua Cap. Pacheco e Chaves, 313;São Paulo;SP;Sudeste;BRASIL
+SIND-MG;Shopping Independência;23/04/2022;415;Av. Presidente Itamar Franco, 3600;Juiz de Fora;MG;Sudeste;BRASIL
+TRSN-PI;Teresina;18/05/2022;952;Av. João XXIII, 1176;Teresina;PI;Nordeste;BRASIL
+RBFR-RN;Roberto Freire;21/05/2022;708;Avenida Engenheiro Roberto Freire, 20 - Capim Macio;Natal;RN;Nordeste;BRASIL
+HVET-SP;Hospital Veterinário;10/10/2012;408;Av. Pacaembu, 1140;São Paulo;SP;Sudeste;BRASIL
